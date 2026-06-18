@@ -1,16 +1,18 @@
-# Course 1 - Module 1 - Introduction to Software Engineering
+# Course 1 - Module 1 - SDLC
 
 ## Key Concepts
-- 
-- 
-- 
+- Software Engineering is applying engineering principles to software development
+- It ensures software is reliable, efficient, maintainable and scalable
+- Difference between a programmer and a software engineer — engineers think about the full lifecycle, not just writing code
+
 
 ## New Terms
-- Term: definition
-- Term: definition
+- Software Engineering: systematic approach to design, development and maintenance of software
+- Stakeholder: anyone affected by or involved in the software project
 
 ## Quiz Result
-X/X ✅
+8/10 ✅
 
 ## Summary
-Write 3-4 lines in your own words about what this module was about.
+Software engineering is a disciplined approach to building software that are reliable at large scale. 
+The field emerged because unstructured coding led to massive project failures. Now engineers follow defined processes to avoid that.
