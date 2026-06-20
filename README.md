@@ -12,8 +12,8 @@ Complete all 13 courses in 6 weeks — June to August 2026
 ## Course Progress
 | # | Course | Status |
 |---|--------|--------|
-| 1 | Introduction to Software Engineering | 🔄 In Progress |
-| 2 | Introduction to Cloud Computing | ⬜ Not Started |
+| 1 | Introduction to Software Engineering | ✅ Done |
+| 2 | Introduction to Cloud Computing | 🔄️ In Progress |
 | 3 | Introduction to HTML, CSS & JavaScript | ⬜ Not Started |
 | 4 | Getting Started with Git and GitHub | ⬜ Not Started |
 | 5 | Developing Front-End Apps with React | ⬜ Not Started |
