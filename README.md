@@ -15,8 +15,8 @@ Complete all 13 courses in 6 weeks — June to August 2026
 | 1 | Introduction to Software Engineering | ✅ Done |
 | 2 | Introduction to Cloud Computing | ✅ Done |
 | 3 | Introduction to HTML, CSS & JavaScript | ✅ Done |
-| 4 | Getting Started with Git and GitHub | 🔄️ In Progress |
-| 5 | Developing Front-End Apps with React | ⬜ Not Started |
+| 4 | Getting Started with Git and GitHub | ✅ Done |
+| 5 | Developing Front-End Apps with React | 🔄️ In Progress |
 | 6 | Developing Back-End Apps with Node.js and Express | ⬜ Not Started |
 | 7 | Python for Data Science, AI & Development | ⬜ Not Started |
 | 8 | Developing AI Applications with Python and Flask | ⬜ Not Started |
