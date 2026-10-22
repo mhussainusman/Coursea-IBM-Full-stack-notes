@@ -20,9 +20,9 @@ Complete all 13 courses in 6 weeks — June to August 2026
 | 6 | Developing Back-End Apps with Node.js and Express | ✅ Done |
 | 7 | Python for Data Science, AI & Development | ✅ Done |
 | 8 | Developing AI Applications with Python and Flask | ✅ Done |
-| 9 | Django Application Development with SQL and Databases | ✅ Done |
-| 10 | Introduction to Containers w/ Docker, Kubernetes & OpenShift | 🔄️ In Progress |
-| 11 | Application Development using Microservices and Serverless | ⬜ Not Started |
+| 9 | Django Application Development with SQL and Databases | ✅ Done | 
+| 10 | Introduction to Containers w/ Docker, Kubernetes & OpenShift | ✅ Done |
+| 11 | Application Development using Microservices and Serverless | 🔄️ In Progress |
 | 12 | Full Stack Application Development Capstone Project | ⬜ Not Started |
 | 13 | Full Stack Software Developer Assessment | ⬜ Not Started |
 
